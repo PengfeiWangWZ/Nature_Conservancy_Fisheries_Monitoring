@@ -1,7 +1,5 @@
 # The Nature Conservancy Fisheries Monitoring
 
-## Group ID: 201612-13
-
 ## Team Member 
 + Kewen Zhang  (kz2246@columbia.edu)
 + Pengfei Wang (pw2406@columbia.edu)
