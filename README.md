@@ -7,6 +7,7 @@
 
 ## Introduction
 This project is inspired by Kaggle.com "the-nature-conservancy-fisheries-monitoring" [Link](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring).
+![](https://github.com/PengfeiWangWZ/Nature_Conservancy_Fisheries_Monitoring/blob/master/fig/img_00197.jpg)
 
 ## Environments
 + Operating System: macOS Sierra
