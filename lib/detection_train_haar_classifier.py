@@ -3,7 +3,7 @@ import re
 import os
 
 '''
-train the haar cascade
+train the Cascade
 '''
 
 def get_file_path(path):
@@ -48,7 +48,7 @@ opencv_createsamples -info pos.info -num 4471 -w 128 -h 128 -vec /Users/pengfeiw
 opencv_createsamples -vec fish.vec -w 128 -h 128
 opencv_traincascade -data data -vec fish.vec -bg neg_info.txt -numStages 10 -numPos 4000 -numNeg 465 -w 128 -h 128 -featureType LBP
 
-# numPos should be less than the vec number, which is 4471
+# ps: numPos should be less than the vec number
 
 
 
